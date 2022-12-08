@@ -37,3 +37,4 @@ next build && next export -o outdir
 - <https://nextjs-ja-translation-docs.vercel.app/docs/api-reference/next.config.js/exportPathMap>
 - <https://www.wakuwakubank.com/posts/771-react-nextjs-ssg/>
 - <https://qiita.com/standard-software/items/1afe7b64c4c644fdd9e4>
+- <https://blog.kimizuka.org/entry/2021/01/18/232117>

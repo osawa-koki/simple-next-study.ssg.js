@@ -6,13 +6,13 @@ Next.jsのテスト用プロジェクト。
 
 ```shell
 # デバグ実行
-npm run dev
+yarn dev
 
 # ビルド
-npm run build
+yarn build build
 
 # 静的ビルド結果確認
-cd docs
+cd ./dist
 http-server
 ```
 

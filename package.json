@@ -1,8 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build && next export -o docs",
+    "dev": "yarn develop",
+    "develop": "next dev",
+    "build": "next build && next export -o ./dist",
     "start": "next start"
   },
   "dependencies": {

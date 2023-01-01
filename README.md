@@ -1,6 +1,6 @@
 # simple-next-study.ssg.js
 
-Next.jsのテスト用プロジェクト。  
+Next.jsの学習用プロジェクト。  
 
 ## 実行方法
 

@@ -14,7 +14,7 @@ function Pages() {
       })
     }
     </div>
-  )
+  );
 };
 
 export default Pages;

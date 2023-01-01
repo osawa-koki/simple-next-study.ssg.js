@@ -1,3 +1,4 @@
+import PageBlock from "../components/pages";
 
 export default function HelloWorld() {
   return (
@@ -9,6 +10,8 @@ export default function HelloWorld() {
           <li><a href="https://nextjs.org/learn/basics/create-nextjs-app">Next.js公式チュートリアル</a></li>
           <li><a href="https://react-bootstrap.github.io/">React Bootstrap公式ドキュメント</a></li>
         </ul>
+        <hr />
+        <PageBlock />
       </div>
     </main>
   );

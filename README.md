@@ -5,11 +5,14 @@ Next.jsの学習用プロジェクト。
 ## 実行方法
 
 ```shell
+# モジュールのインストール
+yarn
+
 # デバグ実行
 yarn dev
 
 # ビルド
-yarn build build
+yarn build
 
 # 静的ビルド結果確認
 cd ./dist
